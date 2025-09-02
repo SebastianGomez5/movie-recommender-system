@@ -1,0 +1,5 @@
+# Entorno virtual
+.venv/
+
+#Carpeta de datos
+sample_data/
