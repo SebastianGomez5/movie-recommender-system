@@ -1,4 +1,8 @@
 # Movie Recommender System
+#### Application Preview
+![App Screenshot](https://ibb.co/hR32SJnW){:width="800px"}
+*Main interface showing movie selection and recommendations*
+
 A simple movie recommendation system that suggests similar movies based on your preferences. Powered by Machine Learning (Based on cosine similarity) y Streamlit.
 
 ## Technologies Used
