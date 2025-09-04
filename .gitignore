@@ -3,3 +3,6 @@
 
 #Carpeta de datos
 sample_data/
+
+# Archivos de Entorno
+.env
